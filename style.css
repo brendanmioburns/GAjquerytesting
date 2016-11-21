@@ -1,0 +1,11 @@
+#animated-div {
+    width:300px;
+    height:300px;
+    border:#000 1px solid;
+}
+
+.animate {
+    transform:rotate(720deg);
+    transition:all 1s ease-in-out;
+    background-color:orange;
+}
